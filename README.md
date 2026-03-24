@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Aryan
 
-🎓 Student | 💻 Tech Enthusiast | 🚀 Learner
+🎓 CSE (AI & ML) Student (Batch 2025) at VIT Bhopal University | 💻 Tech Enthusiast | 🚀 Learner
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning: Web Development / Python / GitHub
-- 🎯 Goals: Improve coding skills and build awesome projects
-- 💡 Interested in: AI, Software Development, Problem Solving
+- 🎓 Pursuing Computer Science (AI & ML), Batch 2025 – VIT Bhopal University
+- 🌱 Currently learning: Web Development / Python / Machine Learning
+- 🎯 Goal: Become a skilled AI/ML Engineer
+- 💡 Interested in: Artificial Intelligence, Coding, Problem Solving
 - 📍 Location: India
 
 ---
@@ -15,6 +16,7 @@
 ## 🛠️ Skills
 - 💻 Languages: C, C++, Python, JavaScript
 - 🌐 Web: HTML, CSS
+- 🤖 AI/ML: Basics of Machine Learning
 - 🛠️ Tools: Git, GitHub, VS Code
 
 ---
@@ -43,4 +45,4 @@
 ---
 
 ## ⚡ Fun Fact
-I love solving problems and learning new tech every day!
+I’m passionate about AI and love building cool projects 🚀
