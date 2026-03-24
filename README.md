@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋, I'm Aryan
 
-<!--
-**AryanGupta265/AryanGupta265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Tech Enthusiast | 🚀 Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning: Web Development / Python / GitHub
+- 🎯 Goals: Improve coding skills and build awesome projects
+- 💡 Interested in: AI, Software Development, Problem Solving
+- 📍 Location: India
+
+---
+
+## 🛠️ Skills
+- 💻 Languages: C, C++, Python, JavaScript
+- 🌐 Web: HTML, CSS
+- 🛠️ Tools: Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+- 🔹 Project 1 – Short description
+- 🔹 Project 2 – Short description
+- 🔹 Project 3 – Short description
+
+---
+
+## 📊 GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: (your link)
+- 📧 Email: (your email)
+
+---
+
+## ⚡ Fun Fact
+I love solving problems and learning new tech every day!
